@@ -1,80 +1,111 @@
-# Omar Mohamed
-### Senior UI Developer | UI/UX Designer | Frontend Engineer
+<!--
+BEYOND THE INTERFACE
+Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
 
-**Bridging the gap between design and development. Building interfaces that look great, work beautifully, and scale.**
+<div align="center">
 
-I'm a UI Developer and UX Designer with **8+ years of experience in frontend development** and a strong background in creating intuitive, responsive, and user-centered digital experiences.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101827,55:123C35,100:101827&text=OMAR%20MOHAMED&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=BEYOND%20THE%20INTERFACE%20%E2%80%A2%20UI%20ENGINEERING%20%2B%20UX%20DESIGN&descSize=12&descAlignY=66&animation=fadeIn" width="100%" alt="Omar Mohamed — Beyond the Interface"/>
 
-I specialize in translating design concepts into production-ready interfaces, developing reusable UI components, and delivering consistent experiences across devices and browsers.
+<br/>
 
-I care about the details — from pixel-perfect implementation and accessibility to clean code, maintainability, and performance.
+<a href="https://www.linkedin.com/in/omar306/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0C1D46?style=for-the-badge&logo=linkedin&logoColor=67F5A5" alt="Connect on LinkedIn"/>
+</a>
+<img src="https://img.shields.io/badge/UI_ENGINEERING-101827?style=for-the-badge&logo=codeforces&logoColor=67F5A5" alt="UI Engineering"/>
+<img src="https://img.shields.io/badge/UX_THINKING-101827?style=for-the-badge&logo=figma&logoColor=67F5A5" alt="UX Thinking"/>
 
-Currently, I'm expanding my expertise in **Design Systems, Frontend Architecture, and AI-assisted development**, with the goal of growing into UI Engineering Leadership.
-
----
-
-## ✦ What I Bring to the Table
-
-- **UI Engineering** — Pixel-perfect, responsive interfaces built from design specifications.
-- **UX & Interaction Design** — User flows, wireframes, prototyping, and usability-focused decisions.
-- **Frontend Architecture** — Reusable components, maintainable stylesheets, and scalable UI structures.
-- **Responsive Design** — Mobile-first layouts and cross-browser compatibility.
-- **Design Systems** — Consistent design patterns, reusable UI foundations, and visual standards.
-- **Performance & Accessibility** — Fast, inclusive, and reliable user experiences.
-- **AI-Assisted Workflows** — Exploring smarter ways to connect design, code, and productivity.
-
-## 🧰 Technologies & Tools
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-### UX & Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-
-### Engineering Practices
-
-`Responsive Design` · `Mobile-First` · `BEM` · `Accessibility` · `Design Systems` · `Component-Based Architecture` · `Cross-Browser Compatibility` · `Performance Optimization` · `Git & GitHub`
-
-## 💼 Professional Journey
-
-| Role | Experience |
-|---|---|
-| UI Developer | SURE · 2021–Present |
-| UI/UX Designer & Developer | ASIS · 2020–2021 |
-| UI/UX Designer & Developer | API · 2019–2020 |
-| Web Designer & Developer | PISTA · 2017–2019 |
-
-Throughout my career, I've worked on responsive websites, interactive interfaces, frontend styling systems, and user-centered digital products — combining design thinking with practical engineering.
-
-## 🌱 What I'm Exploring
-
-I'm continuously investing in the next stage of my career:
-
-- Building scalable design systems and component libraries.
-- Improving frontend architecture and code quality.
-- Exploring modern React and Python development.
-- Integrating AI tools into everyday design and engineering workflows.
-- Developing technical leadership, mentoring, and team collaboration skills.
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with developers, designers, and teams who care about great user experiences and quality engineering.
-
-**LinkedIn:** [linkedin.com/in/omar306](https://www.linkedin.com/in/omar306/)
-
-**GitHub:** You're already here — feel free to explore my repositories!
+</div>
 
 ---
 
-*Great UI is where thoughtful design meets solid engineering.* ✨
+### `01 / THE PERSON BEHIND THE PIXELS`
+
+Hey, I'm **Omar** — a Senior UI Developer with a UX mindset.
+
+With 8+ years in UI development and 4+ years in UX design, I work at the intersection of visual design, frontend engineering, and user experience.
+
+I don't just care about how an interface looks. I care about how it behaves, how it scales, and how the system behind it stays maintainable.
+
+```js
+const omar = {
+  role: "Senior UI Developer",
+  mindset: ["Design thinking", "Engineering discipline"],
+  focus: ["Design Systems", "Frontend Architecture"],
+  currentlyExploring: ["React", "Python", "AI-assisted workflows"],
+  nextChapter: "UI Engineering Leadership"
+};
+```
+
+### `02 / HOW I THINK`
+
+| Design | Engineering | Impact |
+|:--|:--|:--|
+| User-centered experiences | Reusable UI components | Consistency |
+| Wireframes & prototypes | Maintainable architecture | Scalability |
+| Design systems | Responsive interfaces | Better usability |
+| Accessibility & usability | Performance & compatibility | Quality |
+
+### `03 / MY TOOLBOX`
+
+**The interface layer**
+
+![HTML5](https://img.shields.io/badge/HTML5-101827?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-101827?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-101827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SCSS](https://img.shields.io/badge/SCSS-101827?style=flat-square&logo=sass&logoColor=CC6699)
+![Angular](https://img.shields.io/badge/Angular-101827?style=flat-square&logo=angular&logoColor=DD0031)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-101827?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-101827?style=flat-square&logo=jquery&logoColor=0769AD)
+
+**The design layer**
+
+![Figma](https://img.shields.io/badge/Figma-101827?style=flat-square&logo=figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-101827?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-101827?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+
+**The way I build**
+
+`BEM` · `Responsive Design` · `Mobile-First` · `Accessibility` · `Design Systems` · `Git` · `Cross-Browser Compatibility` · `Performance Optimization`
+
+### `04 / SELECTED WORK`
+
+I believe the best portfolio is proof, not promises.
+
+Here are the projects I'd like to showcase:
+
+- **01 — Design Systems** · Reusable components, design tokens, and consistent UI patterns.
+- **02 — Digital Experiences** · Responsive interfaces that translate complex requirements into clear user journeys.
+- **03 — Frontend Experiments** · Small projects exploring new technologies, engineering patterns, and AI-assisted workflows.
+
+<!-- Replace these descriptions with links to real repositories. -->
+
+### `05 / THE NEXT ITERATION`
+
+I'm deliberately growing from building interfaces toward shaping how interfaces are built.
+
+- → Design systems that scale across products.
+- → Frontend architecture that supports long-term growth.
+- → Better collaboration between design and engineering.
+- → Technical leadership, mentoring, and team influence.
+- → Thoughtful integration of AI into the development workflow.
+
+### `06 / BEYOND THE CODE`
+
+I believe great UI engineering is more than writing CSS or connecting components.
+
+It's about understanding the problem, respecting the user, making thoughtful trade-offs, and creating systems that help teams deliver better products.
+
+**Design with intention. Build with precision. Lead with impact.**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/omar306/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-67F5A5?style=for-the-badge&logo=linkedin&logoColor=101827" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<sub>Crafted with curiosity, precision, and a love for the details.</sub>
+
+</div>
