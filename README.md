@@ -1,68 +1,80 @@
-# 👋 Hey, I'm Omar Mohamed
+# Omar Mohamed
+### Senior UI Developer | UI/UX Designer | Frontend Engineer
 
-### Senior UI Developer · Frontend Engineer · UX Enthusiast
+**Bridging the gap between design and development. Building interfaces that look great, work beautifully, and scale.**
 
-**I turn thoughtful designs into scalable, accessible, and pixel-perfect digital experiences.**
+I'm a UI Developer and UX Designer with **8+ years of experience in frontend development** and a strong background in creating intuitive, responsive, and user-centered digital experiences.
 
-I'm a Senior UI Developer with **8+ years of UI development experience** and **4+ years in UX design**. I enjoy bridging the gap between design and engineering, building reusable UI systems, and transforming complex ideas into intuitive user experiences.
+I specialize in translating design concepts into production-ready interfaces, developing reusable UI components, and delivering consistent experiences across devices and browsers.
 
-My current focus is growing beyond implementation into **Design Systems, Frontend Architecture, Technical Leadership, and AI-assisted development.**
+I care about the details — from pixel-perfect implementation and accessibility to clean code, maintainability, and performance.
+
+Currently, I'm expanding my expertise in **Design Systems, Frontend Architecture, and AI-assisted development**, with the goal of growing into UI Engineering Leadership.
 
 ---
 
-### 🚀 What I Do
+## ✦ What I Bring to the Table
 
-- 🎨 **Design to Code** — Translating Figma designs into responsive, production-ready interfaces.
-- 🧩 **Design Systems** — Building reusable components, consistent design tokens, and scalable UI foundations.
-- 🏗️ **Frontend Architecture** — Creating maintainable, modular, and performance-focused frontend solutions.
-- 🌍 **Inclusive Experiences** — Developing accessible, responsive, and bilingual interfaces, including RTL layouts.
-- 🤖 **AI-Assisted Development** — Exploring AI tools to improve design-to-code workflows and engineering productivity.
+- **UI Engineering** — Pixel-perfect, responsive interfaces built from design specifications.
+- **UX & Interaction Design** — User flows, wireframes, prototyping, and usability-focused decisions.
+- **Frontend Architecture** — Reusable components, maintainable stylesheets, and scalable UI structures.
+- **Responsive Design** — Mobile-first layouts and cross-browser compatibility.
+- **Design Systems** — Consistent design patterns, reusable UI foundations, and visual standards.
+- **Performance & Accessibility** — Fast, inclusive, and reliable user experiences.
+- **AI-Assisted Workflows** — Exploring smarter ways to connect design, code, and productivity.
 
-### 🛠️ My Tech Stack
+## 🧰 Technologies & Tools
 
-**Frontend Development**
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-**Design & Workflow**
+### UX & Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/AI_Assisted_Development-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-### 🧠 What I'm Growing Into
+### Engineering Practices
 
-- Design Systems & Component Architecture
-- Scalable Frontend Engineering
-- UI Standards, Accessibility & Performance
-- Technical Leadership & Team Collaboration
-- AI-Powered Development Workflows
+`Responsive Design` · `Mobile-First` · `BEM` · `Accessibility` · `Design Systems` · `Component-Based Architecture` · `Cross-Browser Compatibility` · `Performance Optimization` · `Git & GitHub`
 
-### 📌 Featured Projects
+## 💼 Professional Journey
 
-I'm building and refining projects that combine clean code, thoughtful UX, reusable components, and practical problem-solving.
+| Role | Experience |
+|---|---|
+| UI Developer | SURE · 2021–Present |
+| UI/UX Designer & Developer | ASIS · 2020–2021 |
+| UI/UX Designer & Developer | API · 2019–2020 |
+| Web Designer & Developer | PISTA · 2017–2019 |
 
-> Replace these links with your strongest repositories to showcase your work.
+Throughout my career, I've worked on responsive websites, interactive interfaces, frontend styling systems, and user-centered digital products — combining design thinking with practical engineering.
 
-- **UI Systems** — Reusable components and frontend foundations.
-- **Frontend Experiments** — Practical implementations and interface explorations.
-- **Learning Projects** — Small projects documenting my journey into new technologies.
+## 🌱 What I'm Exploring
 
-### 🤝 Let's Connect
+I'm continuously investing in the next stage of my career:
 
-I'm always interested in exchanging ideas about frontend engineering, UX, design systems, and the future of AI-assisted development.
+- Building scalable design systems and component libraries.
+- Improving frontend architecture and code quality.
+- Exploring modern React and Python development.
+- Integrating AI tools into everyday design and engineering workflows.
+- Developing technical leadership, mentoring, and team collaboration skills.
 
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/omar306/)
+## 🤝 Let's Connect
 
-💻 Explore my repositories and let's build something meaningful.
+I'm always happy to connect with developers, designers, and teams who care about great user experiences and quality engineering.
+
+**LinkedIn:** [linkedin.com/in/omar306](https://www.linkedin.com/in/omar306/)
+
+**GitHub:** You're already here — feel free to explore my repositories!
 
 ---
 
-*Good interfaces don't just look right. They feel right, work well, and scale beautifully.* ✨
+*Great UI is where thoughtful design meets solid engineering.* ✨
